@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![theotherone](https://user-images.githubusercontent.com/82245268/229676397-a2729003-8b85-46fc-8c9f-ea56d8c9f6ff.gif)
+<img src='https://user-images.githubusercontent.com/82245268/229676397-a2729003-8b85-46fc-8c9f-ea56d8c9f6ff.gif
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -44,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Andrew Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
